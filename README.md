@@ -8,7 +8,7 @@ This repository is for Moke to work out of. The goal is for members of Team Epsi
 
 The following list represents a syllabus of topics for Moke to explore. Each number corresponds to a folder in this repository that contains a `report.md` of what was learned as well as any notable code or configuration artifacts. Teammates will provide relevant learning resources such as blog posts or video series and review the folder materials before moving onto the next item.
 
-At item #12, Moke can begin Team Epsilon project work in parallel.
+At item #14 (inclusive), Moke can begin Team Epsilon project work in parallel.
 
 1. Linux Mint lab
 2. Linux and terminal basics research
