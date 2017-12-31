@@ -12,7 +12,7 @@ At item #14 (inclusive), Moke can begin Team Epsilon project work in parallel.
 
 1. Linux Mint lab
 2. Linux and terminal basics research
-3. Terminal lab: `ls`, `cd`, `mv`, `rm`, `man`, `mkdir`, `touch`, `cat`, `pwd`, `cp`, `chmod`
+3. Terminal lab: `ls`, `cd`, `mv`, `rm`, `man`, `mkdir`, `touch`, `cat`, `pwd`, `cp`, `chmod`, `top`, `grep`
 4. Package manager research
 5. `sudo` and `apt-get` lab
 6. Hashing and encryption research
